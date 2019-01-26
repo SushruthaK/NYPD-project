@@ -1,0 +1,24 @@
+Task 2.1-Date on which maximum number of accidents took place
+
+Task 2.2-Borough with maximum count of accident fatality
+
+Task 2.3-Zip with maximum count of accident fatality
+
+Task 2.4-Which vehicle type is involved in maximum accidents
+
+Task 2.5-Year in which maximum Number Of Persons and Pedestrians Injured
+
+Task 2.6-Year in which maximum Number Of Persons and Pedestrians Killed
+
+Task 2.7-Year in which maximum Number Of Cyclist Injured and Killed (combined)
+
+Task 2.8-Year in which maximum Number Of Motorist Injured and Killed (combined)
+
+Output From the task2.1-['01/21/2014', '842']
+Output From the task2.2-['BROOKLYN', '663']
+Output From the task2.3-['11236', '54']
+Output From the task2.4-['PASSENGER VEHICLE', '502983']
+Output From the task2.5-['2013', '52791']
+Output From the task2.6-['2013', '345']
+Output From the task2.7-['2015', '3876']
+Output From the task2.8-['2013', '27622']
